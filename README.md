@@ -1,16 +1,25 @@
-## Hi there 👋
+### Olá, eu sou o Thales Alves Boardman 👋
 
-<!--
-**parafina77/parafina77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**US:** <br>
 
-Here are some ideas to get you started:
+🔭 <br>
+🌱 <br>
+⚡ <br> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**BR:** <br>
+
+
+
+### Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+
+### Technologies and Tools
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parafina77&layout=compact)
